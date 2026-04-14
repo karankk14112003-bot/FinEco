@@ -1,0 +1,2 @@
+# FinEco
+Econometrics project
