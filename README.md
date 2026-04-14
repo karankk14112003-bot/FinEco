@@ -1,4 +1,7 @@
 # FinEco
 Econometrics project
 
-###download packages and run the file in anaconda base python environment
+## Pip install packages
+## Run the code in anaconda based Python environment
+## Python version 3.13.5
+
